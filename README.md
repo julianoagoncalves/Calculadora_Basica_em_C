@@ -1,4 +1,4 @@
-# Calculadora Basica em C
+# Calculadora Básica em C
 
 Essa é uma simples calculadora com as quatro operaçoes fundamentais da aritmética.
 
