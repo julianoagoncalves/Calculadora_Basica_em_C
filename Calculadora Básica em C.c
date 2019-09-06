@@ -2,6 +2,8 @@
 
 void main(){
 
+//Declaração de variáveis            
+            
 float n1, n2, resultado;
 char operacao;
 
